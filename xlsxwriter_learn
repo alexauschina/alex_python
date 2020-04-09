@@ -5,3 +5,5 @@ worksheet=workbook.add_worksheet()
 
 worksheet.write('A2','hello world')
 worksheer.insert_image('B2',1.png')
+
+workbook.close()
